@@ -1,2 +1,2 @@
-#!bin/bash
-BETTY="Holberton"
+#!/bin/bash
+BEST="School"
