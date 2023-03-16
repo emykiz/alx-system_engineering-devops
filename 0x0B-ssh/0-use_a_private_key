@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Connects to server with key ~/.ssh/school with the user ubuntu
+
+<<<<<<< HEAD
+ssh -i ~/.ssh/school ubuntu@18.210.19.35
+=======
+ssh -i ~/.ssh/school ubuntu@18.210.10.50
+>>>>>>> done
